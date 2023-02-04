@@ -1,1 +1,1 @@
-some text in file a
+some awesome text in file a
